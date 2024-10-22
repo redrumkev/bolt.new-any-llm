@@ -28,6 +28,7 @@ This fork of Bolt.new allows you to choose the LLM that you use for each prompt!
 - ⬜ Prompt caching
 - ⬜ Ability to enter API keys in the UI
 - ⬜ Prevent Bolt from rewriting files as often
+- ⬜ Our own "http://cursor.directory” that leverages selected LLMs to review templates/project specs, dynamically create prompts, and report back on success for continuous improvement.
 
 # Bolt.new: AI-Powered Full-Stack Web Development in the Browser
 
